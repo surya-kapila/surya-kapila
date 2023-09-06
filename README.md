@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @surya-kapila
-- 👀 I’m interested in frontend development
+- 👋 Hi, this is @surya-kapila
+- 👀 Interested in Web and App Development. Full Stack Developer.
 - 📫 How to reach me surya@thejavascriptshop.com
 
 <!---
